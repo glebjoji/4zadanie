@@ -1,0 +1,93 @@
+.root
+{
+    background-color:#6C987F;
+}
+header
+{
+    background-color: #FDFAE9;
+}
+.logo
+{
+    width: 100px;
+    height: 100px;
+}
+ol
+{
+    color:#1F2322;
+}
+label
+{
+    color:#1F2322;
+}
+header h1
+{
+    color:#1F2322;
+}
+p
+{
+    color:#1F2322;
+}
+
+a
+{
+    color:#1F2322;
+}
+.nav2
+{
+    color:#1F2322;
+}
+footer
+{
+    background-color: #FDFAE9;
+    margin: 0;
+}
+.front-block {
+    border: 1px solid rgba(255, 255, 255, .2);
+    border-radius: 15px;
+}
+.mainmain
+{
+
+    border-radius: 30px;
+
+}
+
+main
+{
+
+
+}
+input, select, textarea
+{
+    color: #1F2322;
+    background-color: #FFFAE7;
+}
+textarea:focus, input:focus
+{
+    color:white; background-color: #6C987F;
+}
+table
+{
+    color:#1F2322
+}
+.stroka
+{
+    background-color: #6C987F
+}
+table
+{
+    border: 1px solid #1F2322;
+}
+caption
+{
+    border: 1px solid #1F2322;
+}
+th {
+    border: 1px solid #1F2322;
+}
+td {
+    border: 1px solid #1F2322;
+}
+.front-block {
+    border-radius: 30px;
+}
